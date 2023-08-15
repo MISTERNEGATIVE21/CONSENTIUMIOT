@@ -1,0 +1,59 @@
+{
+  "unpublishedPage": {
+    "name": "Consentium Tester ESP8266",
+    "slug": "consentium-tester-esp8266",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 450,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 940,
+          "containerStyle": "none",
+          "snapRows": 108,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 83,
+          "minHeight": 980,
+          "useAutoLayout": false,
+          "parentColumnSpace": 1,
+          "dynamicTriggerPathList": [],
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "positioning": "fixed"
+        },
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Consentium Tester ESP8266_GET",
+              "name": "GET",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Input2.text"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Consentium Tester ESP8266",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "64dbe1aa5b8add5421bc40f2_64dbe1aa5b8add5421bc40f4"
+}
