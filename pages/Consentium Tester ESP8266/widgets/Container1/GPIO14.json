@@ -22,7 +22,7 @@
     "key": "3dnsuxj52v",
     "isDeprecated": false,
     "rightColumn": 57,
-    "onChange": "{{Clear.run()}}",
+    "onChange": "{{Clear.run();\nPOST_USIVERSAL.run()}}",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "2qzj2z6k7q",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",

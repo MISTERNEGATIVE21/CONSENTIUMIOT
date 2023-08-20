@@ -2,7 +2,7 @@
     "boxShadow": "none",
     "widgetName": "Container1",
     "topRow": 0,
-    "bottomRow": 94,
+    "bottomRow": 90,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "parentColumnSpace": 6.78125,
@@ -11,7 +11,7 @@
         "boxShadow": "none",
         "widgetName": "Canvas2",
         "topRow": 0,
-        "bottomRow": 940,
+        "bottomRow": 900,
         "parentRowSpace": 1,
         "canExtend": false,
         "type": "CANVAS_WIDGET",
@@ -47,6 +47,6 @@
     "originalTopRow": 0,
     "borderRadius": "0px",
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 94,
+    "originalBottomRow": 90,
     "minDynamicHeight": 4
 }

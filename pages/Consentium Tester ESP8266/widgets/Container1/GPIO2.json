@@ -22,7 +22,7 @@
     "key": "3dnsuxj52v",
     "isDeprecated": false,
     "rightColumn": 16,
-    "onChange": "{{storeValue('GPIO2', GPIO2.isSwitchedOn);\nPOST_USIVERSAL.run();\nClear.run()}}",
+    "onChange": "{{storeValue('GPIO2', GPIO2.isSwitchedOn);\nClear.run();\nPOST_USIVERSAL.run()}}",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "rq54aqfefa",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
